@@ -1,5 +1,4 @@
 def main():
-	print("Hello World")
 	print("insert funny joke here: ________")
 
 
